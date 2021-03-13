@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Dale"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Dale's Blog"
+author: "Dale K J"
+description: "Exploring the world of Applied Probability"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
